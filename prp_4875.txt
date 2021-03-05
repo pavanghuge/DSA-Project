@@ -1,0 +1,28 @@
+
+/* Pavan Ghuge  CS610 4875 prp */
+
+HANDOUT 2 ADHERED; NO BUGS TO REPORT
+
+-Steps for Compilation and execution of program:
+
+
+-Option 1
+Compiling Hashing Algorithm
+javac hashing_4875.java
+
+Execution of Hashing Algorithm
+java hashing_4875 filename.txt
+
+
+-Option 2
+Compiling Hits Algorithm
+javac hits_4875.java
+
+Execution of Hits Algorithm
+java hits_4875 5 1 samplegraph.txt
+
+Compiling Page rank Algorithm
+javac pgrk_4875.java
+
+Execution of Page rank Algorithm
+java pgrk_4875 5 1 samplegraph.txt
